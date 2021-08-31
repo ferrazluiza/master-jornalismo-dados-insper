@@ -1,8 +1,6 @@
 # pt
-# Repositório: Master do Insper em Jornalismo de Dados, Automação e Data 
 
-
-####alterações teste 
+#### alterações teste 
 =======
 ### Repositório: Master do Insper em Jornalismo de Dados, Automação e Data Storytelling
 
