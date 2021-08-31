@@ -1,5 +1,5 @@
 # pt
-# Repositório: Master do Insper em Jornalismo de Dados, Automação e Data Storytelling
+#### Repositório: Master do Insper em Jornalismo de Dados, Automação e Data Storytelling
 
 Oi, meu nome é Luiza Ferraz =)
 <br>Sou jornalista e estou aprendendo a programar (espero que esse verbo fique, em breve, no passado).
