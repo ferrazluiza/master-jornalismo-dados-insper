@@ -1,7 +1,4 @@
 # pt
-
-#### alterações teste 
-=======
 ### Repositório: Master do Insper em Jornalismo de Dados, Automação e Data Storytelling
 
 Oi, meu nome é Luiza Ferraz =)
